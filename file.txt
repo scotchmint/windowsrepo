@@ -5,3 +5,4 @@ Forth new line
 Fifth line has been added
 
 New line in testing branch
+Second line in testing branch
